@@ -20,4 +20,12 @@ about me
 
 
 <h3 align="left">Connect with me:</h3>
-<a href="https://www.instagram.com/kim_bagh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kim_bagh" height="30" width="40" /></a>
+<p align="left">
+  <a href="https://www.instagram.com/kim_bagh/" target="blank"
+    ><img
+      align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="https://www.instagram.com/kim_bagh/"
+      height="30"
+      width="40"
+  /></a>
