@@ -1,16 +1,15 @@
-### Hi there 👋
+<!-- <p align="center">
+    <img src="https://media.tenor.com/YNqsJbmb_yMAAAAd/coding.gif" alt="Banner" height="200" width="250"/>
+  </a>
+</p> -->
 
-<!--
-**kimshanti/kimshanti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Kim</h1>
+<h3 align="center">A  Front-end Developer based in Armenia, Yerevan City</h3>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔗 I’m currently learning **React, Redux**
+
+- 🤝 I’m open to remote web development jobs **
+
+- 📨 Contact me at **kimabaghdasaryan@gmail.com**
