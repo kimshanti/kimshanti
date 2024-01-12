@@ -17,3 +17,7 @@
 - 📄 More
 about me
 [Resume](https://drive.google.com/file/d/1lzFqU9g9R1TmgX7Oce3zsh_J7io9132B/view?usp=sharing)
+
+
+<h3 align="left">Connect with me:</h3>
+<a href="https://www.instagram.com/kim_bagh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kim_bagh" height="30" width="40" /></a>
