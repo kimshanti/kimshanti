@@ -13,3 +13,7 @@
 - 🤝 I’m open to remote web development jobs **
 
 - 📨 Contact me at **kimabaghdasaryan@gmail.com**
+
+- 📄 More
+about me
+[Resume](https://drive.google.com/file/d/1lzFqU9g9R1TmgX7Oce3zsh_J7io9132B/view?usp=sharing)
