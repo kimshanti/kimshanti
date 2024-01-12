@@ -21,6 +21,5 @@ about me
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/kimabaghdasaryan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kimabaghdasaryan" height="30" width="40" /></a>
 <a href="https://www.instagram.com/kim_bagh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kim_bagh" height="30" width="40" /></a>
 </p>
